@@ -19,5 +19,5 @@ cp 002.png bg-saved.cfg ~/.config/nitrogen/
 sudo cp i3-keyboard-layout /usr/bin/
 
 
-sudo pacman -S telegram-desktop bashtop thunar mate-power-manager --noconfirm
+sudo pacman -S telegram-desktop bashtop thunar mate-power-manager maim xclip copyq --noconfirm
 yay -S i3exit nerd-fonts-complete ttf-adobe-source-code-pro-fonts
